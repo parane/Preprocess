@@ -1,0 +1,16 @@
+@relation test_r
+
+@attribute nome string
+@attribute ling_prog {java,c,vb}
+@attribute conosciuto {conosciuto,non_conosciuto}
+
+@data
+'Giuseppe Verdi',c,conosciuto
+'Giuseppe Verdi',vb,non_conosciuto
+'Giuseppe Verdi',java,conosciuto
+'Mario Rossi',java,conosciuto
+'Mario Rossi',c,conosciuto
+'Mario Rossi',c,non_conosciuto
+'Verdi Rossi',java,conosciuto
+'Verdi Rossi',vb,conosciuto
+'Verdi Rossi',c,non_conosciuto

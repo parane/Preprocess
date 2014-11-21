@@ -1,0 +1,9 @@
+Large ItemSets (decreasing order of support) :
+
+[nice], 100.0%
+[of], 100.0%
+
+
+High-Confidence Rules (decreasing order of confidence) with support(LHS union RHS) :
+
+[nice] ==> [of] (Conf: 100.0%, Supp: 50.0%)
